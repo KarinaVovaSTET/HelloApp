@@ -5,4 +5,3 @@ Console.WriteLine("я в шоке");
 int digit = 6;
 string name = "в полном.";
 Console.WriteLine(name);
-
